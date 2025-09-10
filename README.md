@@ -24,11 +24,11 @@ student-performance-dashboard/
 │   └── students_performance_records.csv        # Dataset 
 │
 ├── screenshots/
-│   ├── dashboard_overview.png         # Screenshot of final dashboard
-│   ├── bar_chart.png
-│   ├── boxplot.png
-│   ├── histogram.png
-│   └── scatterplot.png
+│   ├── Screenshot (494).png        
+│   ├── Screenshot (495).png
+│   ├── Screenshot (496).png
+│   ├── Screenshot (497).png
+│   └── Screenshot (498).png
 │
 ├── tableau/
 │   └── students_performance_dashboard.twbx       # Tableau packaged workbook file
